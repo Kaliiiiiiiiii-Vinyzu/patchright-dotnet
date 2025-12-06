@@ -1,2 +1,2 @@
-# patchright-dotnet
-See https://github.com/DevEnterpriseSoftware/patchright-dotnet
+# See [DevEnterpriseSoftware/patchright-dotnet](https://github.com/DevEnterpriseSoftware/patchright-dotnet)
+For the officially supported _community-driven_ Patchright .Net Package.
